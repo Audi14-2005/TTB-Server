@@ -1,0 +1,242 @@
+{
+  "Wednesday": [
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "10:00 AM - 10:50 AM",
+      "location": "A303 (A Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "10:00 AM - 10:50 AM",
+      "location": "A303 (A Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "11:00 AM - 11:50 AM",
+      "location": "A303 (A Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23531",
+      "teacher": "Mrs. J.A.Adlin Layola",
+      "time": "1:20 PM - 3:00 PM",
+      "location": "KSL03-A (K Block)",
+      "locationType": "Mrs. J.A.Adlin Layola",
+      "type": "Lab Session -"
+    },
+    {
+      "courseCode": "CS23533",
+      "teacher": "Ms. Divya M",
+      "time": "3:00 PM - 3:50 PM",
+      "location": "A202 (A Block)",
+      "locationType": "Ms. Divya M",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23533",
+      "teacher": "Ms. Divya M",
+      "time": "4:00 PM - 4:50 PM",
+      "location": "A110 (A Block)",
+      "locationType": "Ms. Divya M",
+      "type": "Theory Session"
+    },
+    {
+      "type": "6"
+    }
+  ],
+  "Thursday": [
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "8:00 AM - 9:40 AM",
+      "location": "KSL03-A (K Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Lab Session -"
+    },
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "8:00 AM - 9:40 AM",
+      "location": "KSL03-A (K Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Lab Session -"
+    },
+    {
+      "courseCode": "DM1",
+      "teacher": "Do More Course",
+      "time": "10:00 AM - 11:40 AM",
+      "location": "Do More Session (Do More)",
+      "locationType": "Do More Course",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23531",
+      "teacher": "Mrs. J.A.Adlin Layola",
+      "time": "1:00 PM - 1:50 PM",
+      "location": "A211 (A Block)",
+      "locationType": "Mrs. J.A.Adlin Layola",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23531",
+      "teacher": "Mrs. J.A.Adlin Layola",
+      "time": "2:00 PM - 2:50 PM",
+      "location": "B322 (B Block)",
+      "locationType": "Mrs. J.A.Adlin Layola",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23511",
+      "teacher": "Mrs. S.Vinothini",
+      "time": "3:00 PM - 3:50 PM",
+      "location": "A309 (A Block)",
+      "locationType": "Mrs. S.Vinothini",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23511",
+      "teacher": "Mrs. S.Vinothini",
+      "time": "4:00 PM - 4:50 PM",
+      "location": "A209 (A Block)",
+      "locationType": "Mrs. S.Vinothini",
+      "type": "Theory Session"
+    },
+    {
+      "type": "6"
+    }
+  ],
+  "Friday": [
+    {},
+    {
+      "type": "6"
+    }
+  ],
+  "Saturday": [
+    {},
+    {
+      "type": "6"
+    }
+  ],
+  "Monday": [
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "8:00 AM - 8:50 AM",
+      "location": "A204 (A Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "8:00 AM - 8:50 AM",
+      "location": "A204 (A Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23532",
+      "teacher": "Dr. Chettiyar Vani Vivekanand",
+      "time": "10:00 AM - 11:40 AM",
+      "location": "KSL03-A (K Block)",
+      "locationType": "Dr. Chettiyar Vani Vivekanand",
+      "type": "Lab Session -"
+    },
+    {
+      "courseCode": "CS23531",
+      "teacher": "Mrs. J.A.Adlin Layola",
+      "time": "1:20 PM - 3:00 PM",
+      "location": "KSL03-A (K Block)",
+      "locationType": "Mrs. J.A.Adlin Layola",
+      "type": "Lab Session -"
+    },
+    {
+      "courseCode": "CS23511",
+      "teacher": "Mrs. S.Vinothini",
+      "time": "3:00 PM - 3:50 PM",
+      "location": "A109 (A Block)",
+      "locationType": "Mrs. S.Vinothini",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23512",
+      "teacher": "Mr. V Karthick",
+      "time": "4:00 PM - 4:50 PM",
+      "location": "A110 (A Block)",
+      "locationType": "Mr. V Karthick",
+      "type": "Theory Session"
+    },
+    {
+      "type": "6"
+    }
+  ],
+  "Tuesday": [
+    {
+      "courseCode": "CS23512",
+      "teacher": "Mr. V Karthick",
+      "time": "8:00 AM - 8:50 AM",
+      "location": "A209 (A Block)",
+      "locationType": "Mr. V Karthick",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23512",
+      "teacher": "Mr. V Karthick",
+      "time": "8:00 AM - 8:50 AM",
+      "location": "A209 (A Block)",
+      "locationType": "Mr. V Karthick",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23533",
+      "teacher": "Ms. Divya M",
+      "time": "10:00 AM - 11:40 AM",
+      "location": "JR3 (J Block)",
+      "locationType": "Ms. Divya M",
+      "type": "Lab Session - Batch 2"
+    },
+    {
+      "courseCode": "CS23533",
+      "teacher": "Ms. Divya M",
+      "time": "1:00 PM - 1:50 PM",
+      "location": "A209 (A Block)",
+      "locationType": "Ms. Divya M",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23512",
+      "teacher": "Mr. V Karthick",
+      "time": "2:00 PM - 2:50 PM",
+      "location": "A303 (A Block)",
+      "locationType": "Mr. V Karthick",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23531",
+      "teacher": "Mrs. J.A.Adlin Layola",
+      "time": "3:00 PM - 3:50 PM",
+      "location": "A310 (A Block)",
+      "locationType": "Mrs. J.A.Adlin Layola",
+      "type": "Theory Session"
+    },
+    {
+      "courseCode": "CS23511",
+      "teacher": "Mrs. S.Vinothini",
+      "time": "4:00 PM - 4:50 PM",
+      "location": "A305 (A Block)",
+      "locationType": "Mrs. S.Vinothini",
+      "type": "Theory Session"
+    },
+    {
+      "type": "6"
+    }
+  ]
+}
