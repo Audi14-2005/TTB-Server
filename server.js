@@ -7,8 +7,14 @@ const cors = require('cors');
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.get('/', (req, res) => {
+  if (!browser) {
+    return res.status(503).send('Server is initializing, please try again shortly');
+  }
+  res.send('Welcome to the Student Portal Scraper API');
+});
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 4000;
 
 const LOGIN_URL = 'https://students.rajalakshmi.org/';
 const USERNAME = '230701194@rajalakshmi.edu.in';
@@ -138,12 +144,10 @@ async function scrapeNotifications() {
     return notifications;
   });
 }
-app.get('/', (req, res) => {
-  res.send('Welcome to the Student Portal Scraper API');    });
 
 
 // API Endpoint
-app.get('/api/scrape', async (req, res) => {
+app.get('/s', async (req, res) => {
   try {
     // Check if we need to re-login
     if (page.url().includes('/login')) {
