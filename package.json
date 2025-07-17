@@ -7,6 +7,7 @@
   "type": "commonjs",
   "main": "server.js",
   "scripts": {
+    "install": "npm install playwright && npx playwright install && npm install axios && npm install cors && npm install express",
     "start": "node server.js",
     "test": "playwright test"
   },
@@ -14,7 +15,6 @@
     "axios": "^1.10.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
-    "heroku": "^8.7.1",
     "playwright": "^1.54.1"
   },
   "devDependencies": {
