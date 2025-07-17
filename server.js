@@ -10,8 +10,6 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
 
-// Configuration
-const API_ENDPOINT = 'https://your-api-service.com/data-endpoint';
 const LOGIN_URL = 'https://students.rajalakshmi.org/';
 const USERNAME = '230701194@rajalakshmi.edu.in';
 const PASSWORD = 'Audi@1406';
@@ -140,6 +138,9 @@ async function scrapeNotifications() {
     return notifications;
   });
 }
+app.get('/', (req, res) => {
+  res.send('Welcome to the Student Portal Scraper API');    });
+
 
 // API Endpoint
 app.get('/api/scrape', async (req, res) => {

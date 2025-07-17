@@ -11,6 +11,7 @@
     "axios": "^1.10.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+    "heroku": "^8.7.1",
     "playwright": "^1.54.1"
   },
   "devDependencies": {
